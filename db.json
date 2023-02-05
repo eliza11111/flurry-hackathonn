@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "BUTTERFLY WEED",
+      "price": 8,
+      "type": "flowers",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://www.turkeyflowersshop.com/urunresim/mix-orchids-plant-turkey-flower-shop.webp"
+    },
+    {
+      "id": 4,
+      "title": "MOSS VERBENA",
+      "price": "400$",
+      "type": "flowers",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://www.turkeyflowersshop.com/urunresim/send-flowers-to-turkey-white-orchid.jpg"
+    },
+    {
+      "id": 5,
+      "title": "MILLION GOLD",
+      " price": "500$",
+      "type": "plants for home",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://www.turkeyflowersshop.com/urunresim/Turkey-gensing-grafted-ficus-bonsai-tree.webp"
+    },
+    {
+      "id": 6,
+      "title": "MILLION GOLD",
+      " price": "500$",
+      "type": "plants for home",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Monstera-Peru-Grow-Pot-Small_e4bec3c2-5a95-45ae-a204-6eb82849b45a_600x600.jpg?v=1650198377"
+    },
+    {
+      "id": 7,
+      "title": "MILLION GOLD",
+      " price": "500$",
+      "type": "plants for home",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Calathea-Rosy-Grow-Pot-Small_1529ca9e-06fa-43b1-9506-d1820f26ef98_600x600.jpg?v=1638476771"
+    },
+    {
+      "id": 8,
+      "title": "MILLION GOLD",
+      " price": "500$",
+      "type": "plants for home",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Chinese-Evergreen-Cherry-Cylinder-Pot-Small_600x600.jpg?v=1673714056"
+    },
+
+    {
+      "id": 9,
+      "title": "FEATHER REED GRASS",
+      "price": "600$",
+      "type": "plants for garden",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-6-270x300.jpg"
+    },
+    {
+      "id": 10,
+      "title": "FEATHER REED GRASS",
+      "price": "600$",
+      "type": "plants for garden",
+      "avatarUrl": "https://images.pexels.com/photos/3259945/pexels-photo-3259945.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/False-Aralia-Grow-Pot-Extra-Large_400x400_crop_center.jpg?v=1666311695"
+    }
+  ]
+}
